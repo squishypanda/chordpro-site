@@ -1,0 +1,1 @@
+var e=[`Files.Read`],t=class extends Error{constructor(e=`Sign in to OneDrive again.`){super(e),this.name=`AuthExpiredError`}},n=e=>new URL(`./`,e).href;export{e as n,n as r,t};
